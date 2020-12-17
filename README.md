@@ -17,6 +17,7 @@
    Link de actividad resuelta: 
 
 ***Ejercicio Resuelto***
+![practica 1 resuelta](https://user-images.githubusercontent.com/73166385/102477191-51e40900-405c-11eb-83b3-89c1aca69504.PNG)
 
 
 
