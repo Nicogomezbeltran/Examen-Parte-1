@@ -10,7 +10,7 @@
   
 * Despues he copiado el codigo del GitHub y lo he puesto en mi Visual Studio Code.
  
-   Link del texto de GitHub: 
+   Link del texto de GitHub: https://github.com/Nicogomezbeltran/Examen-Parte-1/blob/main/EXAMEN%201/Texto.txt
 
 * Desde el Visual Studio Code, he cambiado las palabras inglesas por españolas.
 
