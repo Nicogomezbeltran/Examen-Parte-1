@@ -6,18 +6,18 @@
 **¿Que he hecho?**
 * Primero he copiado el codigo CSS y lo he pegado en mi Visual Studio Code
 
-   Link del CSS: https://github.com/Nicogomezbeltran/Examen-Parte-4/blob/main/CSS.txt
+   Link del CSS: 
   
 * Despues he copiado el codigo del GitHub y lo he puesto en mi Visual Studio Code.
  
-   Link del texto de GitHub: https://github.com/mdn/learning-area/blob/master/html/tables/assessment-start/planets-data.txt
+   Link del texto de GitHub: 
 
 * Desde el Visual Studio Code, he cambiado las palabras inglesas por españolas.
 
-   Link de actividad resuelta: https://github.com/Nicogomezbeltran/Examen-Parte-4/blob/main/EXAMEN%204/Examen%204%20Parte.html
+   Link de actividad resuelta: 
 
 ***Ejercicio Resuelto***
-![ejercicio resuelto](https://user-images.githubusercontent.com/73166385/102474470-f9f7d300-4058-11eb-95c5-a9533df739e2.PNG)
+
 
 
 
