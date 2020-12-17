@@ -12,7 +12,7 @@
  
    Link del texto de GitHub: https://github.com/Nicogomezbeltran/Examen-Parte-1/blob/main/EXAMEN%201/Texto.txt
 
-* Desde el Visual Studio Code, he cambiado las palabras inglesas por españolas.
+* Desde el Visual Studio Code, he modificado los comandos para que se vea similar al contenido de la practica.
 
    Link de actividad resuelta: https://github.com/Nicogomezbeltran/Examen-Parte-1/blob/main/EXAMEN%201/1%20Examen.html
 
@@ -40,5 +40,3 @@
 
 
 
-Primero he puesto el css en el <style>, a continuacion copiaremos el codigo que aparece en el enunciado y los pegaremos en nuestro Visual Studio Code. 
-Ahora, editaremos el texto que acabamos de pegar, para ello usaremos uns comandos que sirven para modificar el texto y/añadirle elementos. Por ejemplo el strong, el br, el time, el h1/h2, el li, el a, el dt/dd/dl.
