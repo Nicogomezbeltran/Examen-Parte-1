@@ -6,7 +6,7 @@
 **¿Que he hecho?**
 * Primero he copiado el codigo CSS y lo he pegado en mi Visual Studio Code
 
-   Link del CSS: 
+   Link del CSS: https://github.com/Nicogomezbeltran/Examen-Parte-1/blob/main/CSS.txt
   
 * Despues he copiado el codigo del GitHub y lo he puesto en mi Visual Studio Code.
  
