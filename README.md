@@ -14,7 +14,7 @@
 
 * Desde el Visual Studio Code, he cambiado las palabras inglesas por españolas.
 
-   Link de actividad resuelta: 
+   Link de actividad resuelta: https://github.com/Nicogomezbeltran/Examen-Parte-1/blob/main/EXAMEN%201/1%20Examen.html
 
 ***Ejercicio Resuelto***
 
