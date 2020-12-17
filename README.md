@@ -4,7 +4,7 @@
 ![practica 1](https://user-images.githubusercontent.com/73166385/102475450-29f3a600-405a-11eb-93de-72b821562da8.PNG)
 
 **¿Que he hecho?**
-* Lo primero que he hecho a sido buscar el codigo CSS en Ingles para despues ponerlo dentro de los paranetros de style.
+* Primero he copiado el codigo CSS y lo he pegado en mi Visual Studio Code
 
    Link del CSS: https://github.com/Nicogomezbeltran/Examen-Parte-4/blob/main/CSS.txt
   
